@@ -2,9 +2,11 @@
 
 ## 📌 Overview
 
-This project presents the design and implementation of a relational database system for malaria surveillance, case tracking, and epidemiological risk assessment in resource-constrained environments.
+This project presents the design and implementation of a distributed-ready relational database system for real-time malaria surveillance and epidemiological risk assessment in geographically constrained environments.
 
-It is focused on supporting public health operations such as patient monitoring, laboratory analysis, and field interventions carried out by health brigades.
+It addresses real-world challenges such as limited connectivity, data consistency, and field data collection, providing a foundation for scalable public health systems.
+
+The system supports patient tracking, laboratory diagnostics, and coordinated field interventions performed by health brigades.
 
 ---
 
